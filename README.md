@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Optimizing Web Performance and Accessibility**
 
-- 💬 Ask me about **React, Tailwind, HTML, CSS and JavaScript**
+- 💬 Ask me about **React, Tailwind, Zustand, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **Preshtech96@gmail.com**
 
