@@ -7,7 +7,9 @@
 
 - 🌱 Comming soon **Next Js and Node Js**
 
-- 🌱 I’m currently learning **Python**
+- 🤴 I’m currently learning **Python**
+
+- 🤴 I’m currently learning **MongoDb**
 
 - 👯 I’m looking to collaborate on **Open Source UI Component Library**
 
