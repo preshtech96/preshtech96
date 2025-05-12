@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preshtech96" alt="preshtech96" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js and Node Js**
+- 🌱 Comming soon **Next Js and Node Js**
+
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source UI Component Library**
 
