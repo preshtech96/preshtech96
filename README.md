@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thompson Oyiboka Festus Precious</h1>
-<h3 align="center">A highly skilled and detail-oriented Frontend Developer from Nigeria, dedicated to building intuitive, responsive, and visually engaging web applications. Passionate about leveraging modern technologies, optimizing user experiences, and collaborating with teams to deliver high-quality digital solutions that drive innovation and efficiency.</h3>
+<h3 align="center">A highly skilled and detail-oriented Full Stack Web Developer from Nigeria, dedicated to designing and building scalable, intuitive, and responsive web applications. Proficient in both frontend and backend technologies, with a strong focus on creating seamless user experiences and robust server-side solutions. Passionate about leveraging modern frameworks, optimizing performance, and collaborating with cross-functional teams to deliver high-quality digital products that drive innovation and efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preshtech96&label=Profile%20views&color=0e75b6&style=flat" alt="preshtech96" /> </p>
 
@@ -7,15 +7,11 @@
 
 - 🌱 Comming soon **Next Js and Node Js**
 
-- 🤴 I’m currently learning **Python**
-
-- 🤴 I’m currently learning **MongoDb**
-
 - 👯 I’m looking to collaborate on **Open Source UI Component Library**
 
 - 🤝 I’m looking for help with **Optimizing Web Performance and Accessibility**
 
-- 💬 Ask me about **React, Tailwind, Zustand, HTML, CSS and JavaScript**
+- 💬 Ask me about **React, Tailwind, Zustand, HTML, CSS, Python, WorldPress, MongoDB, Api and JavaScript**
 
 - 📫 How to reach me **Preshtech96@gmail.com**
 
