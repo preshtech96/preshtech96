@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thompson Oyiboka Festus Precious</h1>
-<h3 align="center">A highly skilled and detail-oriented Full Stack Web Developer from Nigeria, dedicated to designing and building scalable, intuitive, and responsive web applications. Proficient in both frontend and backend technologies, with a strong focus on creating seamless user experiences and robust server-side solutions. Passionate about leveraging modern frameworks, optimizing performance, and collaborating with cross-functional teams to deliver high-quality digital products that drive innovation and efficiency.</h3>
+<h3 align="center">A highly skilled and detail-oriented Full Stack Web Developer from Africa, dedicated to designing and building scalable, intuitive, and responsive web applications. Proficient in both frontend and backend technologies, with a strong focus on creating seamless user experiences and robust server-side solutions. Passionate about leveraging modern frameworks, optimizing performance, and collaborating with cross-functional teams to deliver high-quality digital products that drive innovation and efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preshtech96&label=Profile%20views&color=0e75b6&style=flat" alt="preshtech96" /> </p>
 
