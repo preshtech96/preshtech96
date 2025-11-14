@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preshtech96" alt="preshtech96" /></a> </p>
 
-- 🌱 Comming soon **Next Js and Node Js**
+- 🌱 Comming soon **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Open Source UI Component Library**
 
 - 🤝 I’m looking for help with **Optimizing Web Performance and Accessibility**
 
-- 💬 Ask me about **React, Tailwind, Zustand, HTML, CSS, Python, WorldPress, MongoDB, Api and JavaScript**
+- 💬 Ask me about **React, Tailwind, Zustand, HTML, CSS, Python, WorldPress, MongoDB, Api, NextJS and JavaScript**
 
 - 📫 How to reach me **Preshtech96@gmail.com**
 
